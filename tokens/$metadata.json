@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "Core/Spacing",
+    "Core/Typography",
+    "Core/Border Radius",
+    "iOS/Color/Light",
+    "iOS/Color/Dark",
+    "iOS/Border Radius",
+    "iOS/Typography",
+    "iOS/Spacing"
+  ]
+}

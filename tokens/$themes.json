@@ -568,7 +568,10 @@
       "caption.md.regular": "S:8d10c15f9318da51604698fdf54118359f573535,",
       "caption.md.prominent": "S:77d2d1ac0edfb79fb034748681f548dff506df73,",
       "caption.lg.regular": "S:8ae6ad1d8e03b911e76233dba171ea36a2dc3e6b,",
-      "caption.lg.prominent": "S:09d9dfe1b3b6ec9ea76181fff02425fc6fcac9b6,"
+      "caption.lg.prominent": "S:09d9dfe1b3b6ec9ea76181fff02425fc6fcac9b6,",
+      "display.lg.light": "S:551ca14db4d2ead052b8bbbfc5564d8503e71548,",
+      "display.lg.regular": "S:e70cf7b3597e16de177ca149820db10466ae3614,",
+      "display.lg.prominent": "S:38de0baf318bb63115646d1ade062e4abcede816,"
     },
     "selectedTokenSets": {
       "Core/Typography": "source",
@@ -593,7 +596,7 @@
       "font.size.headline.sm": "aed198d69ddb6afab0a7f6b60058ac675c382ab4",
       "font.size.headline.md": "d64f1a55e936eeb284f6352e49f674b0acd6a655",
       "font.size.headline.lg": "6aeb977225df43c1ebf5cd422a55f3779c68cacc",
-      "font.size.headline.xl": "3e6cdd36a48de01f1f025f6d6ee4237fbdf289f9",
+      "font.size.display.lg": "3e6cdd36a48de01f1f025f6d6ee4237fbdf289f9",
       "font.size.caption.sm": "bb01307ee17de74e779b00ebf96141504b04edd7",
       "font.size.caption.md": "57e80e58bd62c26c1d4b2cad5d1b3f8c2cf91bab",
       "font.size.caption.lg": "3cc26de5da24adb32e44bf79c883a82ac1d3b026"

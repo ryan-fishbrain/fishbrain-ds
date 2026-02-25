@@ -1,6 +1,6 @@
 {
   "Display": {
-    "X-large": {
+    "xl": {
       "value": {
         "fontFamily": "{font.family.brand}",
         "fontWeight": "{font.weight.700}",
@@ -10,7 +10,7 @@
       },
       "type": "typography"
     },
-    "Large": {
+    "l": {
       "value": {
         "fontFamily": "{font.family.brand}",
         "fontWeight": "{font.weight.700}",
@@ -20,7 +20,7 @@
       },
       "type": "typography"
     },
-    "Medium": {
+    "m": {
       "value": {
         "fontFamily": "{font.family.brand}",
         "fontWeight": "{font.weight.700}",
@@ -30,7 +30,7 @@
       },
       "type": "typography"
     },
-    "Small": {
+    "s": {
       "value": {
         "fontFamily": "{font.family.brand}",
         "fontWeight": "{font.weight.700}",
@@ -42,7 +42,7 @@
     }
   },
   "Headline": {
-    "3x-large": {
+    "3xl": {
       "Light": {
         "value": {
           "fontFamily": "{font.family.brand}",
@@ -74,7 +74,7 @@
         "type": "typography"
       }
     },
-    "2x-large": {
+    "2xl": {
       "Light": {
         "value": {
           "fontFamily": "{font.family.brand}",
@@ -106,7 +106,7 @@
         "type": "typography"
       }
     },
-    "X-large": {
+    "xl": {
       "Light": {
         "value": {
           "fontFamily": "{font.family.brand}",
@@ -138,7 +138,7 @@
         "type": "typography"
       }
     },
-    "Large": {
+    "l": {
       "Light": {
         "value": {
           "fontFamily": "{font.family.brand}",
@@ -170,7 +170,7 @@
         "type": "typography"
       }
     },
-    "Medium": {
+    "m": {
       "Light": {
         "value": {
           "fontFamily": "{font.family.brand}",
@@ -202,7 +202,7 @@
         "type": "typography"
       }
     },
-    "Small": {
+    "s": {
       "Light": {
         "value": {
           "fontFamily": "{font.family.brand}",
@@ -236,7 +236,7 @@
     }
   },
   "Body": {
-    "X-Large": {
+    "xl": {
       "Regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
@@ -258,7 +258,7 @@
         "type": "typography"
       }
     },
-    "Large": {
+    "l": {
       "Regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
@@ -280,7 +280,7 @@
         "type": "typography"
       }
     },
-    "Medium": {
+    "m": {
       "Regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
@@ -302,7 +302,7 @@
         "type": "typography"
       }
     },
-    "Small": {
+    "s": {
       "Regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
@@ -326,7 +326,7 @@
     }
   },
   "Label": {
-    "X-large": {
+    "xl": {
       "Regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
@@ -348,7 +348,7 @@
         "type": "typography"
       }
     },
-    "Large": {
+    "l": {
       "Regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
@@ -370,7 +370,7 @@
         "type": "typography"
       }
     },
-    "Medium": {
+    "m": {
       "Regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
@@ -392,7 +392,7 @@
         "type": "typography"
       }
     },
-    "Small": {
+    "s": {
       "Regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
@@ -431,7 +431,7 @@
         "value": "{font.weight.400}",
         "type": "fontWeights"
       },
-      "medium": {
+      "m": {
         "value": "{font.weight.500}",
         "type": "fontWeights"
       },

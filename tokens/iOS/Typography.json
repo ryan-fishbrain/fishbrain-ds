@@ -43,7 +43,7 @@
   },
   "headline": {
     "2xl": {
-      "Light": {
+      "light": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.400}",
@@ -53,7 +53,7 @@
         },
         "type": "typography"
       },
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.500}",
@@ -63,7 +63,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.600}",
@@ -75,7 +75,7 @@
       }
     },
     "xl": {
-      "Light": {
+      "light": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.400}",
@@ -85,7 +85,7 @@
         },
         "type": "typography"
       },
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.500}",
@@ -95,7 +95,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.600}",
@@ -107,7 +107,7 @@
       }
     },
     "l": {
-      "Light": {
+      "light": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.400}",
@@ -117,7 +117,7 @@
         },
         "type": "typography"
       },
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.500}",
@@ -127,7 +127,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.600}",
@@ -139,7 +139,7 @@
       }
     },
     "m": {
-      "Light": {
+      "light": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.400}",
@@ -149,7 +149,7 @@
         },
         "type": "typography"
       },
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.500}",
@@ -159,7 +159,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.600}",
@@ -171,7 +171,7 @@
       }
     },
     "s": {
-      "Light": {
+      "light": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.400}",
@@ -181,7 +181,7 @@
         },
         "type": "typography"
       },
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.500}",
@@ -205,7 +205,7 @@
   },
   "body": {
     "xl": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.400}",
@@ -215,7 +215,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -227,7 +227,7 @@
       }
     },
     "l": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.400}",
@@ -237,7 +237,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -249,7 +249,7 @@
       }
     },
     "m": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.400}",
@@ -259,7 +259,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -271,7 +271,7 @@
       }
     },
     "s": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.400}",
@@ -281,7 +281,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -295,7 +295,7 @@
   },
   "label": {
     "xl": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -305,7 +305,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -317,7 +317,7 @@
       }
     },
     "l": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -327,7 +327,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -339,7 +339,7 @@
       }
     },
     "m": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -349,7 +349,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -361,7 +361,7 @@
       }
     },
     "s": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -371,7 +371,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -385,7 +385,7 @@
   },
   "caption": {
     "xl": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -395,7 +395,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -407,7 +407,7 @@
       }
     },
     "l": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -417,7 +417,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -429,7 +429,7 @@
       }
     },
     "m": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -439,7 +439,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -451,7 +451,7 @@
       }
     },
     "s": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -461,7 +461,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -475,7 +475,7 @@
   },
   "sub-headline": {
     "xl": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -485,7 +485,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -497,7 +497,7 @@
       }
     },
     "l": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -507,7 +507,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -519,7 +519,7 @@
       }
     },
     "m": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -529,7 +529,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",
@@ -541,7 +541,7 @@
       }
     },
     "s": {
-      "Regular": {
+      "regular": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.500}",
@@ -551,7 +551,7 @@
         },
         "type": "typography"
       },
-      "Prominent": {
+      "prominent": {
         "value": {
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.600}",

@@ -119,8 +119,8 @@
         "value": "0%",
         "type": "letterSpacing"
       },
-      "5": {
-        "value": "5%",
+      "-4": {
+        "value": "-4%",
         "type": "letterSpacing"
       },
       "-2": {

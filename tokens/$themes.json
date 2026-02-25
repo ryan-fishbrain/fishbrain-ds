@@ -581,7 +581,6 @@
       "font.family.brand": "f046cd136dd7700047ce4a0acc0780dee87a8ad9",
       "font.family.ui": "3acdc9cc84cf3861112ebb5894739e4acb33043d",
       "font.weight.regular": "f8bf5851ea7ce7d6db8cc114bf73c27f2c7d59a7",
-      "font.weight.m": "57d88ca8002ce7b95ec6999313fff1721acf64a1",
       "font.weight.semibold": "fe9d7a61c8d30f4372b856ab36a3060c2b921080",
       "font.weight.bold": "810ced75d97478805d415f88aebc1f45d7a745db",
       "font.size.body.sm": "ad84f9d0c368ed010d091672531ef434000b28b4",
@@ -596,9 +595,6 @@
       "font.size.headline.md": "d64f1a55e936eeb284f6352e49f674b0acd6a655",
       "font.size.headline.lg": "6aeb977225df43c1ebf5cd422a55f3779c68cacc",
       "font.size.headline.xl": "3e6cdd36a48de01f1f025f6d6ee4237fbdf289f9",
-      "font.size.headline.2xl": "02bb11feafb2692f09fc9691a8ea331eadb2fd3a",
-      "font.size.headline.3xl": "57c8d119150b3cb31f89a62f6f49a5ed56922fd6",
-      "font.size.caption.xs": "61f98122188a2ac84d9067bb69fbd91a8f5c6bdf",
       "font.size.caption.sm": "bb01307ee17de74e779b00ebf96141504b04edd7",
       "font.size.caption.md": "57e80e58bd62c26c1d4b2cad5d1b3f8c2cf91bab",
       "font.size.caption.lg": "3cc26de5da24adb32e44bf79c883a82ac1d3b026"

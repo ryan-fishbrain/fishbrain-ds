@@ -123,7 +123,7 @@
     "lg": {
       "regular": {
         "value": {
-          "fontFamily": "{font.family.sans}",
+          "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.500}",
           "lineHeight": "{font.line-height.tightest}",
           "fontSize": "{font.size.label.lg}",
@@ -133,7 +133,7 @@
       },
       "prominent": {
         "value": {
-          "fontFamily": "{font.family.sans}",
+          "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.600}",
           "lineHeight": "{font.line-height.tightest}",
           "fontSize": "{font.size.label.lg}",
@@ -145,7 +145,7 @@
     "md": {
       "regular": {
         "value": {
-          "fontFamily": "{font.family.sans}",
+          "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.500}",
           "lineHeight": "{font.line-height.tightest}",
           "fontSize": "{font.size.label.md}",
@@ -155,7 +155,7 @@
       },
       "prominent": {
         "value": {
-          "fontFamily": "{font.family.sans}",
+          "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.600}",
           "lineHeight": "{font.line-height.tightest}",
           "fontSize": "{font.size.label.md}",
@@ -167,7 +167,7 @@
     "sm": {
       "regular": {
         "value": {
-          "fontFamily": "{font.family.sans}",
+          "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.500}",
           "lineHeight": "{font.line-height.tightest}",
           "fontSize": "{font.size.label.sm}",
@@ -177,7 +177,7 @@
       },
       "prominent": {
         "value": {
-          "fontFamily": "{font.family.sans}",
+          "fontFamily": "{font.family.brand}",
           "fontWeight": "{font.weight.600}",
           "lineHeight": "{font.line-height.tightest}",
           "fontSize": "{font.size.label.sm}",
@@ -216,7 +216,7 @@
           "fontFamily": "{font.family.sans}",
           "fontWeight": "{font.weight.regular}",
           "lineHeight": "{font.line-height.base}",
-          "fontSize": "{font.size.caption.lg}",
+          "fontSize": "{font.size.caption.md}",
           "letterSpacing": "{font.letter-spacing.tight}"
         },
         "type": "typography"

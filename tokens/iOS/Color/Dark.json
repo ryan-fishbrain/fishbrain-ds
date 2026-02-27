@@ -29,7 +29,7 @@
   },
   "surface-alpha": {
     "primary": {
-      "value": "rgba(255,255,255,0.04)",
+      "value": "rgba(255,255,255,0.05)",
       "type": "color"
     },
     "secondary": {
